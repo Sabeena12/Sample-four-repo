@@ -3,6 +3,7 @@ Lorem ipsum dolor sit amet . The graphic and typographic operators know this wel
 
 It is a sequence of Latin words that, as they are positioned, do not form sentences with a complete sense, but give life to a test text useful to fill spaces that will subsequently be occupied from ad hoc texts composed by communication professionals.
 
+
 ##Changed1
 
 ##Changed2
@@ -10,6 +11,3 @@ It is a sequence of Latin words that, as they are positioned, do not form senten
 ##Changed3
 
 ##Changed4
-
-##Changed5
-
